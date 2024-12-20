@@ -3,7 +3,7 @@
 const students = ["Tanjir", "Mohsin", "Rabbi", "Kabir"];
 const studentsUpper = students.map(lowerCase);
 
-console.log(studentsUpper);
+console.log(students);
 
 function upperCase(element){
   return element.toUpperCase();
